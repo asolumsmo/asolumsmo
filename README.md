@@ -16,29 +16,30 @@ Previously, I spent ocho years working with cloud-native **Vue/ASP.NET** solutio
 #### Travel history 📸
 The current journey began on Christmas day 2024, and has continued ever since!  
 
-`72` 🇲🇾 Malaysia   
-`71` 🇸🇬 Singapore   
-`70` 🇹🇭 Thailand   
-`69` 🇱🇦 Laos   
-`68` 🇻🇳 Vietnam  
-`67` 🇵🇦 Panama   
-`66` 🇨🇴 Colombia   
-`NA` 🇦🇼 Aruba   
-`NA` 🇧🇶 Bonaire   
-`NA` 🇨🇼 Curaçao   
-`65` 🇨🇷 Costa Rica   
-`64` 🇳🇮 Nicaragua   
-`63` 🇭🇳 Honduras   
-`62` 🇧🇿 Belize  
-`61` 🇬🇹 Guatemala       
-`60` 🇲🇽 Mexico   
-`NA` 🇺🇸 Texas (📍South Padre Island)   
-`NA` 🇨🇱 Easter Island   
-`59` 🇨🇱 Chile   
-`58` 🇺🇾 Uruguay   
-`57` 🇦🇷 Argentina   
-`56` 🇵🇾 Paraguay   
-`55` 🇧🇷 Brazil (dec 25th 2024)   
+`72` <img width="16" height="16" src="assets/flags/MYS.svg"> Malaysia  
+`71` <img width="16" height="16" src="assets/flags/SGP.svg"> Singapore   
+`70` <img width="16" height="16" src="assets/flags/THA.svg"> Thailand   
+`69` <img width="16" height="16" src="assets/flags/LAO.svg"> Laos   
+`68` <img width="16" height="16" src="assets/flags/VNM.svg"> Vietnam  
+`67` <img width="16" height="16" src="assets/flags/PAN.svg"> Panama   
+`66` <img width="16" height="16" src="assets/flags/COL.svg"> Colombia   
+`NA` <img width="16" height="16" src="assets/flags/ABW.svg"> Aruba   
+`NA` <img width="16" height="16" src="assets/flags/BES.svg"> Bonaire   
+`NA` <img width="16" height="16" src="assets/flags/CUW.svg"> Curaçao   
+`65` <img width="16" height="16" src="assets/flags/CRI.svg"> Costa Rica   
+`64` <img width="16" height="16" src="assets/flags/NIC.svg"> Nicaragua   
+`63` <img width="16" height="16" src="assets/flags/HND.svg"> Honduras   
+`62` <img width="16" height="16" src="assets/flags/BLZ.svg"> Belize  
+`61` <img width="16" height="16" src="assets/flags/SLV.svg"> El Salvador  
+`60` <img width="16" height="16" src="assets/flags/GTM.svg"> Guatemala  
+`59` <img width="16" height="16" src="assets/flags/MEX.svg"> Mexico   
+`NA` <img width="16" height="16" src="assets/flags/USA.svg"> Texas (📍South Padre Island)   
+`NA` <img width="16" height="16" src="assets/flags/CHL.svg"> Easter Island   
+`58` <img width="16" height="16" src="assets/flags/CHL.svg"> Chile   
+`57` <img width="16" height="16" src="assets/flags/URY.svg"> Uruguay   
+`56` <img width="16" height="16" src="assets/flags/ARG.svg"> Argentina   
+`55` <img width="16" height="16" src="assets/flags/PRY.svg"> Paraguay   
+`54` <img width="16" height="16" src="assets/flags/BRA.svg"> Brazil (dec 25th 2024)    
 
 ## 
 🔱 Sidebar: I lost those shades at sea many years ago - I pray to Poseidon for their safe return 
