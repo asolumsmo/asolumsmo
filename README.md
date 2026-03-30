@@ -6,15 +6,15 @@ Currently into native iOS-development with **SwiftUI** - decades after it was co
 Previously, I spent ocho years working with cloud-native **Vue/ASP.NET** solutions in **Azure**   
 
 #### Current stack 🥞
-`Apps`   <img width="16" height="16" src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/swift-colored.svg"> SwiftUI  
-`Frontend`   <img width="14" height="14" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"> Vue    <img width="14" height="14" src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/nuxtjs-colored.svg"> Nuxt    <img width="14" height="14" src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/typescript-colored.svg"> TypeScript  
-`Backend`   <img width="14" height="14" src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/csharp-colored.svg"> C#    <img width="14" height="14" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"> ASP.NET  
-`Databases`   <img width="14" height="14" src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mongodb-colored.svg"> MongoDB    Redis  
-`Cloud`   <img width="14" height="14" src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/azure-colored.svg"> Azure    DigitalOcean  
-`Tools`   <img width="16" height="16" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"> Figma
+`Apps    ` &emsp;<img height="18" width="18" src="assets/stack/Swift.svg"> Swift &emsp;<img height="18" width="18" src="assets/stack/SwiftUI.svg"> SwiftUI  
+`Frontend` &emsp;<img height="18" width="18" src="assets/stack/Vue.svg"> Vue &emsp;<img height="18" width="18" src="assets/stack/Nuxt.svg"> Nuxt &emsp;<img height="18" width="18" src="assets/stack/TypeScript.svg"> TypeScript  
+`Backend ` &emsp;<img height="18" width="18" src="assets/stack/CSharp.svg"> C# &emsp;<img height="18" width="18" src="assets/stack/Dotnet.svg"> ASP.NET  
+`Storage ` &emsp;<img height="18" width="18" src="assets/stack/MongoDB.svg"> MongoDB &emsp;<img height="18" width="18" src="assets/stack/Redis.svg"> Redis  
+`Platform` &emsp;<img height="18" width="18" src="assets/stack/Azure.svg"> Azure &emsp;<img height="18" width="18" src="assets/stack/DigitalOcean.svg"> DigitalOcean  
+`Other   ` &emsp;<img height="18" width="18" src="assets/stack/Figma.svg"> Figma  
 
 #### Travel history 📸
-The current journey began on Christmas day 2024, and has continued ever since!  
+The journey began on Christmas day 2024, and has continued ever since!  
 
 `72` <img width="16" height="16" src="assets/flags/MYS.svg"> Malaysia  
 `71` <img width="16" height="16" src="assets/flags/SGP.svg"> Singapore   
