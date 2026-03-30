@@ -11,7 +11,7 @@ Previously, I spent ocho years working with cloud-native **Vue/ASP.NET** solutio
 `Backend ` &emsp;<img height="18" width="18" src="assets/stack/CSharp.svg"> C# &emsp;<img height="18" width="18" src="assets/stack/Dotnet.svg"> ASP.NET  
 `Storage ` &emsp;<img height="18" width="18" src="assets/stack/MongoDB.svg"> MongoDB &emsp;<img height="18" width="18" src="assets/stack/Redis.svg"> Redis  
 `Platform` &emsp;<img height="18" width="18" src="assets/stack/Azure.svg"> Azure &emsp;<img height="18" width="18" src="assets/stack/DigitalOcean.svg"> DigitalOcean  
-`Other   ` &emsp;<img height="18" width="18" src="assets/stack/Figma.svg"> Figma  
+`Other   ` &emsp;<img height="18" width="18" src="assets/stack/Figma.svg"> Figma &emsp;<img height="18" width="18" src="assets/stack/Sanity.svg"> Sanity  
 
 #### Travel history 📸
 The journey began on Christmas day 2024, and has continued ever since!  
