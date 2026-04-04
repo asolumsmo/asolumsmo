@@ -5,7 +5,7 @@ Currently into native iOS-development with **SwiftUI** - decades after it was co
  
 Previously, I spent ocho years working with cloud-native **Vue/ASP.NET** solutions in **Azure**   
 
-#### Current stack 🥞
+#### 🥞 &hairsp;Stack
 `Apps    ` &emsp;<img height="18" width="18" src="assets/stack/Swift.svg"> Swift &emsp;<img height="18" width="18" src="assets/stack/SwiftUI.svg"> SwiftUI  
 `Frontend` &emsp;<img height="18" width="18" src="assets/stack/Vue.svg"> Vue &emsp;<img height="18" width="18" src="assets/stack/Nuxt.svg"> Nuxt &emsp;<img height="18" width="18" src="assets/stack/TypeScript.svg"> TypeScript  
 `Backend ` &emsp;<img height="18" width="18" src="assets/stack/CSharp.svg"> C# &emsp;<img height="18" width="18" src="assets/stack/Dotnet.svg"> ASP.NET  
@@ -13,10 +13,14 @@ Previously, I spent ocho years working with cloud-native **Vue/ASP.NET** solutio
 `Platform` &emsp;<img height="18" width="18" src="assets/stack/Azure.svg"> Azure &emsp;<img height="18" width="18" src="assets/stack/DigitalOcean.svg"> DigitalOcean  
 `Other   ` &emsp;<img height="18" width="18" src="assets/stack/Figma.svg"> Figma &emsp;<img height="18" width="18" src="assets/stack/Sanity.svg"> Sanity  
 
-#### Travel history 📸
+#### 🌎 &hairsp;Links
+`Social  ` &emsp;<a href="https://www.instagram.com/adrian.solumsmo/"><img height="18" width="18" src="assets/social/Instagram.svg"></a> Instagram &emsp;<a href="https://www.linkedin.com/in/asolumsmo/"><img height="18" width="18" src="assets/social/LinkedIn.svg"></a> LinkedIn  
+`Projects` &emsp;<a href="https://tripordie.com"><img height="18" width="18" src="assets/social/TripOrDie.svg"></a> Trip or Die &emsp;<a href="https://travelswithingrid.com"><img height="18" width="18" src="assets/social/TravelsWithIngrid.png"></a> Travels with Ingrid    
+
+#### 📸 &hairsp;Travels
 The journey began on Christmas day 2024, and has continued ever since!  
 
-`72` <img width="16" height="16" src="assets/flags/MYS.svg"> Malaysia  
+`72` <img width="16" height="16" src="assets/flags/MYS.svg"> Malaysia (feb 7th 2026)  
 `71` <img width="16" height="16" src="assets/flags/SGP.svg"> Singapore   
 `70` <img width="16" height="16" src="assets/flags/THA.svg"> Thailand   
 `69` <img width="16" height="16" src="assets/flags/LAO.svg"> Laos   
@@ -42,4 +46,6 @@ The journey began on Christmas day 2024, and has continued ever since!
 `54` <img width="16" height="16" src="assets/flags/BRA.svg"> Brazil (dec 25th 2024)    
 
 ## 
-🔱 Sidebar: I lost those shades at sea many years ago - I pray to Poseidon for their safe return 
+
+#### 🔱 &hairsp;Sidebar
+I lost those shades at sea many years ago - I pray to Poseidon for their safe return 
