@@ -20,12 +20,13 @@ Previously, I spent ocho years working with cloud-native **Vue/ASP.NET** solutio
 #### 📸 &hairsp;Travels
 The journey began on Christmas day 2024, and has continued ever since!  
 
-`73` <img width="16" height="16" src="assets/flags/KHM.svg"> Cambodia (april 9th 2026)   
+`NA` <img width="16" height="16" src="assets/flags/VNM.svg"> Vietnam (south, may 8th 2026)  
+`73` <img width="16" height="16" src="assets/flags/KHM.svg"> Cambodia   
 `72` <img width="16" height="16" src="assets/flags/MYS.svg"> Malaysia   
 `71` <img width="16" height="16" src="assets/flags/SGP.svg"> Singapore   
 `70` <img width="16" height="16" src="assets/flags/THA.svg"> Thailand   
 `69` <img width="16" height="16" src="assets/flags/LAO.svg"> Laos   
-`68` <img width="16" height="16" src="assets/flags/VNM.svg"> Vietnam  
+`68` <img width="16" height="16" src="assets/flags/VNM.svg"> Vietnam (north)  
 `67` <img width="16" height="16" src="assets/flags/PAN.svg"> Panama   
 `66` <img width="16" height="16" src="assets/flags/COL.svg"> Colombia   
 `NA` <img width="16" height="16" src="assets/flags/ABW.svg"> Aruba   
