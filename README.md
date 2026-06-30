@@ -20,7 +20,8 @@ Previously, I spent ocho years working with cloud-native **Vue/ASP.NET** solutio
 #### 📸 &hairsp;Travels
 The journey began on Christmas day 2024, and has continued ever since!  
 
-`NA` <img width="16" height="16" src="assets/flags/VNM.svg"> Vietnam (south, may 8th 2026)  
+`74` <img width="16" height="16" src="assets/flags/IDN.svg"> Indonesia (jun 20th 2026)  
+`NA` <img width="16" height="16" src="assets/flags/VNM.svg"> Vietnam (south)  
 `73` <img width="16" height="16" src="assets/flags/KHM.svg"> Cambodia   
 `72` <img width="16" height="16" src="assets/flags/MYS.svg"> Malaysia   
 `71` <img width="16" height="16" src="assets/flags/SGP.svg"> Singapore   
